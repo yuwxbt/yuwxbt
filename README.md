@@ -1,12 +1,31 @@
-# Hey, I’m yuwxbt
+### hey, i'm yuw
 
-I build frontend and backend software. Most of what I share here is open-source tooling I use when I work with AI, or projects that started because I wanted an easier way to do something.
+frontend and backend developer. i like knowing how things work underneath, so i also do reverse engineering, and on the security side i work both ends: red teaming to get in, blue teaming to keep others out.
 
-I also spend time on reverse engineering, blue-team defense, and red-team testing. I like taking systems apart in labs and using what I learn to build better ones.
+i post open-source stuff that i use when i work with AI. if something here saves you time, feel free to leave a star.
 
-- [shiver.js](https://github.com/yuwxbt/shiver-framework) makes Discord.js commands, UI, and offline tests easier to write.
-- [shiver.one](https://shiver.one/) is the framework’s documentation and examples.
+<br>
 
-If a project saves you some time, feel free to leave it a star.
+**what i'm building**
 
-![Profile views](https://komarev.com/ghpvc/?username=yuwxbt&label=Profile%20views&color=294d69&style=flat-square)
+| project | what it is |
+| --- | --- |
+| [shiver.js](https://github.com/yuwxbt/shiver-framework) | a framework for discord.js. one command definition for slash and prefix, every discord component as a plain function, and tests that run without a bot token |
+| [shiver.one](https://shiver.one) | the docs and examples for it |
+
+**what i do**
+
+| | |
+| --- | --- |
+| frontend | sites and interfaces, like the docs for shiver.js |
+| backend | node.js services and discord bots |
+| reverse engineering | taking software apart to see how it works |
+| red team / blue team | breaking things in a lab, then fixing what let me in |
+
+**mostly written in** javascript and typescript on node.js
+
+<br>
+
+![profile views](https://komarev.com/ghpvc/?username=yuwxbt&label=profile%20views&color=4a9be8&style=flat-square)
+![followers](https://img.shields.io/github/followers/yuwxbt?label=followers&color=4a9be8&style=flat-square)
+![stars](https://img.shields.io/github/stars/yuwxbt?label=stars&color=4a9be8&style=flat-square)
