@@ -11,7 +11,6 @@ i post open-source stuff that i use when i work with AI. if something here saves
 | project | what it is |
 | --- | --- |
 | [shiver.js](https://github.com/yuwxbt/shiver-framework) | a framework for discord.js. one command definition for slash and prefix, every discord component as a plain function, and tests that run without a bot token |
-| [shiver.one](https://shiver.one) | the docs and examples for it |
 
 **what i do**
 
