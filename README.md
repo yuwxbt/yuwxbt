@@ -12,17 +12,6 @@ i post open-source stuff that i use when i work with AI. if something here saves
 | --- | --- |
 | [shiver.js](https://github.com/yuwxbt/shiver-framework) | a framework for discord.js. one command definition for slash and prefix, every discord component as a plain function, and tests that run without a bot token |
 
-**what i do**
-
-| | |
-| --- | --- |
-| frontend | sites and interfaces, like the docs for shiver.js |
-| backend | node.js services and discord bots |
-| reverse engineering | taking software apart to see how it works |
-| red team / blue team | breaking things in a lab, then fixing what let me in |
-
-**mostly written in** javascript and typescript on node.js
-
 <br>
 
 ![profile views](https://komarev.com/ghpvc/?username=yuwxbt&label=profile%20views&color=4a9be8&style=flat-square)
