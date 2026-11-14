@@ -1,8 +1,8 @@
 ### hey, i'm yuw
 
-frontend and backend developer. i like knowing how things work underneath, so i also do reverse engineering, and on the security side i work both ends: red teaming to get in, blue teaming to keep others out.
+frontend and backend developer. i like knowing how things work underneath, so i also do reverse engineering, and on the security side i work on both ends: red teaming and blue teaming.
 
-i post open-source stuff that i use when i work with AI. if something here saves you time, feel free to leave a star.
+i post open-source stuff, so if something here saves you time, feel free to leave a star.
 
 <br>
 
